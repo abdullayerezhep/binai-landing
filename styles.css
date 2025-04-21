@@ -148,7 +148,7 @@ p {
   justify-content: center;
   box-sizing: border-box;
   position: relative;
-  background: url("/assets/images/bg/hero-bg.svg") no-repeat center/cover,
+  background: url("assets/images/bg/hero-bg.svg") no-repeat center/cover,
     linear-gradient(180deg, #f6f6f6 0%, #f6f6f6 100%);
   width: 100%;
   height: calc(100vh - 85px);
@@ -1048,7 +1048,7 @@ p {
   .hero__container {
     height: 100vh;
     border-radius: 0;
-    background: url("/assets/images/bg/hero-mobile-bg.svg") no-repeat
+    background: url("assets/images/bg/hero-mobile-bg.svg") no-repeat
         center/cover,
       linear-gradient(180deg, #f8f9fa 0%, #f8f9fa 100%);
     padding: 24px;
