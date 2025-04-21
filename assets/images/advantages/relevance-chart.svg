@@ -1,0 +1,20 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gray background circle -->
+  <circle cx="100" cy="100" r="80" stroke="#E5E5E5" stroke-width="20" />
+  
+  <!-- Blue progress arc (38%) -->
+  <path 
+    d="M100,20 A80,80 0 0,1 171,129" 
+    stroke="#285CB6" 
+    stroke-width="20" 
+    fill="none" 
+    stroke-linecap="round" />
+  
+  <!-- Center text -->
+  <text x="100" y="90" text-anchor="middle" font-size="40" font-weight="bold" fill="#333">38%</text>
+  <text x="100" y="115" text-anchor="middle" font-size="14" fill="#666">релевантность</text>
+  
+  <!-- Additional statistics -->
+  <text x="100" y="160" text-anchor="middle" font-size="12" fill="#666">всего: 1000</text>
+  <text x="100" y="180" text-anchor="middle" font-size="12" fill="#666">релевантных: 383</text>
+</svg> 
