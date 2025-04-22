@@ -258,6 +258,9 @@ p {
   border-radius: 50%;
   background-color: #ffffff;
   box-shadow: 8.31px 8.31px 20.77px 0px #41414140;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .hero-text {
